@@ -1,0 +1,350 @@
+[{
+    "name": "Bane",
+    "drawing": {
+        "img": "img/pics/bane.jpg",
+        "text": "Nice!"
+    },
+    "real": {
+        "img": "img/pics/bane_real.jpg",
+        "text": "Beast!"
+    }
+}, {
+    "name": "Joe Versus the Volcano",
+    "drawing": {
+        "img": "img/pics/j_vs_v.jpg",
+        "text": "We got the volcano, but where is Joe."
+    },
+    "real": {
+        "img": "img/pics/j_vs_v_real.jpeg",
+        "text": "Cute..."
+    }
+}, {
+    "name": "Pearl Harbor ",
+    "drawing": {
+        "img": "img/pics/pearl_h.jpg",
+        "text": "No comment..."
+    },
+    "real": {
+        "img": "img/pics/pearl_h_real.jpeg",
+        "text": "Classic"
+    }
+},
+{
+    "name": "Tarzan ",
+    "drawing": {
+        "img": "img/pics/tarzan.jpg",
+        "text": "Nice forest"
+    },
+    "real": {
+        "img": "img/pics/tarzan_real.jpg",
+        "text": "Never watched this"
+    }
+},
+{
+    "name": "Captain America ",
+    "drawing": {
+        "img": "img/pics/captain_a.jpg",
+        "text": "Is that a dress?"
+    },
+    "real": {
+        "img": "img/pics/captain_a_real.jpg",
+        "text": "Boss man"
+    }
+},
+{
+    "name": "Inception",
+    "drawing": {
+        "img": "img/pics/inception.jpg",
+        "text": "Clever"
+    },
+    "real": {
+        "img": "img/pics/inception_real.jpg",
+        "text": "Love this movie!"
+    }
+},
+{
+    "name": "Yoda",
+    "drawing": {
+        "img": "img/pics/yoda.jpg",
+        "text": "Simple"
+    },
+    "real": {
+        "img": "img/pics/yoda_real.png",
+        "text": "There is no try, just do."
+    }
+},
+{
+    "name": "Frodo",
+    "drawing": {
+        "img": "img/pics/frodo.jpg",
+        "text": "Like the feet"
+    },
+    "real": {
+        "img": "img/pics/frodo_real.png",
+        "text": "The ring!!!"
+    }
+},
+{
+    "name": "Dark Knight Rises",
+    "drawing": {
+        "img": "img/pics/dark_night.jpg",
+        "text": "Simple, but logical"
+    },
+    "real": {
+        "img": "img/pics/dark_night_real.jpg",
+        "text": "Like this movie even more!"
+    }
+},
+{
+    "name": "The Joker",
+    "drawing": {
+        "img": "img/pics/joker.jpg",
+        "text": "It's a card"
+    },
+    "real": {
+        "img": "img/pics/joker_real.jpg",
+        "text": "Miss you man"
+    }
+},
+{
+    "name": "The sword in the stone",
+    "drawing": {
+        "img": "img/pics/sword.jpg",
+        "text": "King Arthur?"
+    },
+    "real": {
+        "img": "img/pics/sword_real.jpg",
+        "text": "Another animation??"
+    }
+},
+{
+    "name": "Monty python and the holy grail",
+    "drawing": {
+        "img": "img/pics/monte.jpg",
+        "text": "Wow that is impressive"
+    },
+    "real": {
+        "img": "img/pics/monte_real.jpg",
+        "text": "Another great movie, hahaha"
+    }
+},
+{
+    "name": "Pitch perfect",
+    "drawing": {
+        "img": "img/pics/pitch.jpg",
+        "text": "Music"
+    },
+    "real": {
+        "img": "img/pics/pitch_real.jpg",
+        "text": "Yeah I didn't watch this"
+    }
+},
+{
+    "name": "Punisher",
+    "drawing": {
+        "img": "img/pics/punisher.jpg",
+        "text": "Scary"
+    },
+    "real": {
+        "img": "img/pics/punisher_real.jpg",
+        "text": "Hardcore!"
+    }
+},
+{
+    "name": "Punisher",
+    "drawing": {
+        "img": "img/pics/punisher.jpg",
+        "text": "Scary"
+    },
+    "real": {
+        "img": "img/pics/punisher_real.jpg",
+        "text": "Hardcore!"
+    }
+},
+{
+    "name": "Matrix",
+    "drawing": {
+        "img": "img/pics/matrix.jpg",
+        "text": "Ooh classic scene"
+    },
+    "real": {
+        "img": "img/pics/matrix_real.jpg",
+        "text": "Take the blue pill!"
+    }
+},
+{
+    "name": "The bone collector",
+    "drawing": {
+        "img": "img/pics/bone_collector.jpg",
+        "text": "We got it with only a bone, wow"
+    },
+    "real": {
+        "img": "img/pics/bone_collector_real.jpg",
+        "text": "Nice movie"
+    }
+},
+{
+    "name": "300",
+    "drawing": {
+        "img": "img/pics/300.jpg",
+        "text": "No comment..."
+    },
+    "real": {
+        "img": "img/pics/300_real.jpg",
+        "text": "I need to go to the gym"
+    }
+},
+{
+    "name": "Shutter Island",
+    "drawing": {
+        "img": "img/pics/shutter.jpg",
+        "text": "Good considering you did't see the movie"
+    },
+    "real": {
+        "img": "img/pics/shutter_real.jpg",
+        "text": "Weird movie if I remeber correctly"
+    }
+},
+{
+    "name": "Titanic",
+    "drawing": {
+        "img": "img/pics/titanic.jpg",
+        "text": "I'm sure it didn't have a sail?"
+    },
+    "real": {
+        "img": "img/pics/titanic_real.jpg",
+        "text": "Iceberg!"
+    }
+},
+{
+    "name": "Battleship",
+    "drawing": {
+        "img": "img/pics/battleship.jpg",
+        "text": "Nice reuse of the previous image"
+    },
+    "real": {
+        "img": "img/pics/battleship_real.jpg",
+        "text": "Crap movie"
+    }
+},
+{
+    "name": "The Lion King",
+    "drawing": {
+        "img": "img/pics/lionking.jpg",
+        "text": "Also no comment..."
+    },
+    "real": {
+        "img": "img/pics/lionking_real.jpg",
+        "text": "Childhood memories"
+    }
+},
+{
+    "name": "Braveheart",
+    "drawing": {
+        "img": "img/pics/braveheart.jpg",
+        "text": "Haha I like it"
+    },
+    "real": {
+        "img": "img/pics/braveheart_real.jpg",
+        "text": "Freedom!"
+    }
+},
+{
+    "name": "Godzilla",
+    "drawing": {
+        "img": "img/pics/godzilla.jpg",
+        "text": "Like the detail"
+    },
+    "real": {
+        "img": "img/pics/godzilla_real.jpg",
+        "text": "Godzilla is good in the latest film right?"
+    }
+},
+{
+    "name": "Star Wars",
+    "drawing": {
+        "img": "img/pics/star_wars.jpg",
+        "text": "What how did that work"
+    },
+    "real": {
+        "img": "img/pics/star_wars_real.jpg",
+        "text": "Classic!"
+    }
+},
+{
+    "name": "Star Wars",
+    "drawing": {
+        "img": "img/pics/mad_max.jpg",
+        "text": "Hard to be mad at that face."
+    },
+    "real": {
+        "img": "img/pics/mad_max_real.jpg",
+        "text": "Even with no hair she is still hot"
+    }
+},
+{
+    "name": "Mulan",
+    "drawing": {
+        "img": "img/pics/mulan.jpg",
+        "text": "Impressive picture"
+    },
+    "real": {
+        "img": "img/pics/mulan_real.jpg",
+        "text": "Can't say I've watched it"
+    }
+},
+{
+    "name": "High School Musical",
+    "drawing": {
+        "img": "img/pics/high_school.jpg",
+        "text": "Lost for words here"
+    },
+    "real": {
+        "img": "img/pics/high_school_real.jpg",
+        "text": "Definitly haven't watched this"
+    }
+},
+{
+    "name": "50 Shades of Grey",
+    "drawing": {
+        "img": "img/pics/50.jpg",
+        "text": "Haha nice one"
+    },
+    "real": {
+        "img": "img/pics/50_real.jpg",
+        "text": "Oh Mr Grey"
+    }
+},
+{
+    "name": "Aladdin",
+    "drawing": {
+        "img": "img/pics/aladin.jpg",
+        "text": "Good job"
+    },
+    "real": {
+        "img": "img/pics/aladin_real.jpg",
+        "text": "3 wishes please"
+    }
+},
+{
+    "name": "Forrest Gump",
+    "drawing": {
+        "img": "img/pics/forrest.jpg",
+        "text": "That was easy"
+    },
+    "real": {
+        "img": "img/pics/forrest_real.jpg",
+        "text": "Run Forrest run!"
+    }
+},
+{
+    "name": "The Hulk",
+    "drawing": {
+        "img": "img/pics/hulk.jpg",
+        "text": "Nice muscles"
+    },
+    "real": {
+        "img": "img/pics/hulk_real.jpg",
+        "text": "Feeling green making this"
+    }
+}]

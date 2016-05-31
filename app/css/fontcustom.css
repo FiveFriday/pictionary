@@ -1,0 +1,47 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("fonts/fontcustom_a9de1a91c631273498d17e7d3d02c78d.eot");
+  src: url("fonts/fontcustom_a9de1a91c631273498d17e7d3d02c78d.eot?#iefix") format("embedded-opentype"),
+       url("fonts/fontcustom_a9de1a91c631273498d17e7d3d02c78d.woff") format("woff"),
+       url("fonts/fontcustom_a9de1a91c631273498d17e7d3d02c78d.ttf") format("truetype"),
+       url("fonts/fontcustom_a9de1a91c631273498d17e7d3d02c78d.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("fonts/fontcustom_a9de1a91c631273498d17e7d3d02c78d.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-Strava_Logo:before,
+.icon-icon-strava:before,
+.icon-strava:before,
+.icon-strava-icon:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-Strava_Logo:before { content: "\f102"; }
+.icon-icon-strava:before { content: "\f101"; }
+.icon-strava:before { content: "\f103"; }
+.icon-strava-icon:before { content: "\f100"; }
