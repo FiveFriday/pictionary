@@ -8,7 +8,7 @@ var sassPaths = [
   'app/lib/motion-ui/src'
 ];
 
-var distPath = 'dist/';
+var distPath = 'public/';
 
 //read the image foundation-global-styles
 var file = 'app/images.json';

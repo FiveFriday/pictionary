@@ -1,4 +1,4 @@
 node_modules/
 preview/
-dist/
+public/
 .DS_Store
